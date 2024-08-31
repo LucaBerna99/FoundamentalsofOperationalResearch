@@ -1,0 +1,15 @@
+PROGETTO LABORATORIO FONDAMENTI DI RICERCA OPERATIVA
+
+Contenuto cartella *.zip:
+
+	- "file di dati.xlsx"  = file fornito senza alcuna modifica
+	- "file di dati singolo giorno.xlsx" = file fornito con date modificate
+	- "immagine_lab.png" grafo esplicativo importato nel codice 
+	- "LaB_FrO_senza_commenti.jpynb" = script privo di commenti per verificare la semplice correttezza del codice
+	- "LaB_FrO.jpynb"  SOLUZIONE COMPLETA
+	- (Il codice produce un istogramma) "istogramma.png" Risultato dello studio del problema
+
+
+
+		Luca Bendazzoli
+		Pietro Gualla
